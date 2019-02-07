@@ -14,8 +14,6 @@ class Oval extends JPanel {
 	public void paintComponent(Graphics g) {
 		super.paintComponent(g);
 
-		//g.fillRect(1,1,200,200);
-
 		int panelWidth = getWidth();
 		int panelHeight = getHeight();
 
